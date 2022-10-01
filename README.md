@@ -1,5 +1,20 @@
 # IBM-Project-7376-1658854244
 Early Detection of Chronic Kidney Disease using Machine Learning
+
+Living with diabetes is difficult, thinking about what you eat. But controlling the sugar levels are really important for helping kidney function and specifically slowing down any damage to the kidneys. Newer drugs that have come out in the last couple years can help with this, as well as working with your primary care physician or endocrinologist with your current therapies to get better sugar control.
+
+We really want to help your health and so losing weight can be a key component to reducing your risk of progressing with kidney disease. Reducing calorie intake, which is either smaller portions, less snacking in between meals, and then thinking about burning calories with increasing your exercise, are great steps forward in starting that journey towards weight loss.
+
+We look to get blood pressure less than 130 systolic, that's the top number. And less than 80 diastolic, that's the bottom number, on blood pressure readings. There are a number of different drugs that we can use to do this. And this will help both with your cardiovascular health, but slowing down any kidney disease progression over time as well.
+
+There are two different types of dialysis: hemodialysis, which is done through cleaning the blood through a machine, which you attend a dialysis center three times a week for about four hours each time. It can be done at home in certain circumstances. Or peritoneal dialysis, where fluid gets put into your tummy, takes out the toxins and is drained. And that can be done either during the day or overnight on a machine. The benefits and risks of these are individualized, as some people are able to do the treatment at home or need to go to a treatment center for this. It also depends on your location and how close the nearest dialysis centers are.
+
+The kidney transplant works in the same way as your own kidneys do, with the blood coming through the transplant, filtering it and the urine coming out. The kidney transplant is protected by the anti-rejection medication, so your body doesn't attack it. And we leave your own kidneys in because they eventually shrivel down and don't function anymore. You don't want more surgery than you need.
+
+For a kidney transplant at the moment, taking anti-rejection drugs is an everyday, lifelong occurrence. These can come with side effects. But current research is looking to try and minimize or come off anti-rejection drugs with specific research protocols at the moment.
+
+We really want to partner with you to get the best outcomes for you, so that chronic kidney disease doesn't affect you as much as it can. Controlling your blood pressure and therefore monitoring that at home, taking your medications regularly, and letting us know about side effects is a really important part in partnering and helping you to have a good quality of life living with chronic kidney disease.
+
 As a first step toward diagnosis of kidney disease, your doctor discusses your personal and family history with you. Among other things, your doctor might ask questions about whether you've been diagnosed with high blood pressure, if you've taken a medication that might affect kidney function, if you've noticed changes in your urinary habits and whether you have family members who have kidney disease.
 
 Next, your doctor performs a physical exam, checking for signs of problems with your heart or blood vessels, and conducts a neurological exam.
@@ -10,19 +25,9 @@ Blood tests. Kidney function tests look for the level of waste products, such as
 Urine tests. Analyzing a sample of your urine can reveal abnormalities that point to chronic kidney failure and help identify the cause of chronic kidney disease.
 Imaging tests. Your doctor might use ultrasound to assess your kidneys' structure and size. Other imaging tests might be used in some cases.
 Removing a sample of kidney tissue for testing. Your doctor might recommend a kidney biopsy, which involves removing a sample of kidney tissue. Kidney biopsy is often done with local anesthesia using a long, thin needle that's inserted through your skin and into your kidney. The biopsy sample is sent to a lab for testing to help determine what's causing your kidney problem.
-Care at Mayo Clinic
-Our caring team of Mayo Clinic experts can help you with your chronic kidney disease-related health concerns
-Start Here
-More Information
-Chronic kidney disease care at Mayo Clinic
-MRI: Is gadolinium safe for people with kidney problems?
-Kidney biopsy
-Show more related information
-Treatment
-Start Your Donor Evaluation
-Begin the process of becoming a living kidney or liver donor by clicking here to complete a health history questionnaire.
-Kidney transplant
-Kidney transplantOpen pop-up dialog box
+
+TREATMENT
+
 Depending on the cause, some types of kidney disease can be treated. Often, though, chronic kidney disease has no cure.
 
 Treatment usually consists of measures to help control signs and symptoms, reduce complications, and slow progression of the disease. If your kidneys become severely damaged, you might need treatment for end-stage kidney disease.
